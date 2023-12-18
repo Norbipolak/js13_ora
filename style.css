@@ -1,0 +1,8 @@
+.quantity-flex {
+    display: flex;
+    justify-content: space-around; /*és megadjuk ezt a class-t a tdQuantity-nak*/
+    align-items: center; /*kicsit lejebbhoztuk számot a quantity-nál*/
+}
+button {
+    cursor: pointer;
+}
